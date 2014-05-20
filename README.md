@@ -31,15 +31,16 @@ a program to open the jar with, choose your Java JRE. If nothing happens, please
 
 You can create a shortcut to run the program by adding the following to a batch or shell script.
 
-The following is to guide you in making the shortcut: [Windows](http://www.wikihow.com/Write-a-Batch-File) or [Mac / Linux](http://www.linfo.org/create_shell_1.html)
+If you need assistance creating a shortcut, the following should be of help: [Windows](http://www.wikihow.com/Write-a-Batch-File) or [Mac / Linux](http://www.linfo.org/create_shell_1.html)
 
-The commands:
-	(replace home_directory with the path to your user directory - usually C:\Users\user_name\)
+	Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory)
 		
 Windows:
+
 	javaw -classpath home_directory/lib/*;home_directory/raffle-bot.jar org.aeternaly.raffle.Main
 			
-Linux/Mac:
+Linux / Mac:
+
 	javaw -classpath home_directory/lib/*:home_directory/raffle-bot.jar org.aeternaly.raffle.Main
 
 
