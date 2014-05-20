@@ -19,9 +19,7 @@ a bug report via the Help menu within the program.
 
 Requirements
 ------------
-As this program was built using Java, JRE 7 (Java Runtime Enviornment) or later is required.
-
-	You can download Java here: https://www.java.com/en/download/
+As this program was built using Java, JRE 7 (Java Runtime Environment) or later is required. [Download Java](https://www.java.com/en/download/)
 
 
 Running Twitch Raffle
@@ -29,11 +27,11 @@ Running Twitch Raffle
 You should be able to double click on the Twitch Raffle jar file. If you are prompted to select
 a program to open the jar with, choose your Java JRE. If nothing happens, please create a shortcut.
 
-You can create a shortcut to run the program by adding the following to a batch or shell script.
+You can create a shortcut to run the program by adding the following to a batch or shell script. If you need
+assistance creating a shortcut, the following should be of help: [Windows](http://www.wikihow.com/Write-a-Batch-File)
+or [Mac / Linux](http://www.linfo.org/create_shell_1.html)
 
-If you need assistance creating a shortcut, the following should be of help: [Windows](http://www.wikihow.com/Write-a-Batch-File) or [Mac / Linux](http://www.linfo.org/create_shell_1.html)
-
-	Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory)
+** Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory) **
 		
 Windows:
 
