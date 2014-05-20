@@ -31,7 +31,7 @@ You can create a shortcut to run the program by adding the following to a batch 
 assistance creating a shortcut, the following should be of help: [Windows](http://www.wikihow.com/Write-a-Batch-File)
 or [Mac / Linux](http://www.linfo.org/create_shell_1.html)
 
-** Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory) **
+**Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory)**
 		
 Windows:
 
