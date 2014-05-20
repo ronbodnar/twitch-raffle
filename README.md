@@ -3,7 +3,7 @@ Twitch Raffle
 Twitch Raffle is a tool that was designed to help streamers manage raffles or giveaways within their
 own Twitch chat without the hassle of dealing with the laggy chat environment that comes along with it.
 
-Website: http://ieztech.net/~aeterna/twitch-raffle/
+[Visit our website](http://ieztech.net/~aeterna/twitch-raffle/)
 
 
 Developers Notice
@@ -31,7 +31,7 @@ You can create a shortcut to run the program by adding the following to a batch 
 assistance creating a shortcut, the following should be of help: [Windows](http://www.wikihow.com/Write-a-Batch-File)
 or [Mac / Linux](http://www.linfo.org/create_shell_1.html)
 
-**Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory)**
+**Replace home_directory with the path to your [home directory](http://en.wikipedia.org/wiki/Home_directory)!**
 		
 Windows:
 
@@ -44,9 +44,9 @@ Linux / Mac:
 
 Help
 ----
-If you are having issues please check the FAQ (http://ieztech.net/~aeterna/twitch-raffle-faq/) for an answer.
+If you are having issues please check the [FAQ](http://ieztech.net/~aeterna/twitch-raffle-faq/) for an answer.
 You can also contact us via email (support@aeterna.com) or the Contact Form provided in the program under the Help menu
-if the FAQ was unable to solve your issue. Please be as descriptive as possible whichever way you decide to contact me.
+if the [FAQ](http://ieztech.net/~aeterna/twitch-raffle-faq/) was unable to solve your issue. Please be as descriptive as possible whichever way you decide to contact me.
 
 
 License
