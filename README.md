@@ -8,8 +8,8 @@ Website: http://ieztech.net/~aeterna/twitch-raffle/
 
 Developers Notice
 -----------------
-Twitch Raffle will always be free to download and ad-free - donations are greatly appreciated and can be
-sent to rbodnar93@gmail.com on PayPal if you choose to do so. Thank you :)
+If you find <b>Twitch Raffle</b> useful, please consider supporting its development by donating via
+Bitcoin: 3GFYF1sSMH2b3XaGXshPokZxZ8roE9SPP6 or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UME5EXWKE9SSC)
 
 Twitch Raffle is relatively new and was tested on multiple chats during different traffic levels,
 meaning that it was extensively tested during both low and high volumes of chat messages. No
